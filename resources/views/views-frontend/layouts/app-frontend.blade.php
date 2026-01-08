@@ -386,7 +386,7 @@
                         <div class="col-lg-3 col-md-6 col-sm-12 counter-item">
                             <div class="single-counter-box">
                                 <div class="single-counter">
-                                    <h3 class="odometer" data-count="5">00</h3>
+                                    Plus <h3 class="odometer" data-count="5">00</h3>
                                     <p>Années d'Expérience</p>
                                 </div>
                             </div>
@@ -479,8 +479,7 @@
 
                         <!-- Projet 3: Infrastructure Réseau PCP-ACEFA -->
                         <div class="col-lg-4 col-md-6 project-grid-item all infrastructure">
-                            <a class="popup-img project-item"
-                                href="{{ asset('assets/img/projects/infractructurepcpacefa.png') }}">
+                            <a class="project-item" href="https://pcpacefa.org" target="_blank">
                                 <img src="{{ asset('assets/img/projects/infractructurepcpacefa.png') }}"
                                     alt="Infrastructure Réseau et outils ACEFA">
                                 <div class="project-img-overlay">
